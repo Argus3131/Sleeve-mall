@@ -1,0 +1,12 @@
+com\sleeve\swg\entity\OrdersEntity.class
+com\sleeve\swg\entity\UserAddressEntity.class
+com\sleeve\swg\entity\ItemsParamEntity.class
+com\sleeve\swg\entity\CategoryEntity.class
+com\sleeve\swg\entity\ItemsSpecEntity.class
+com\sleeve\swg\entity\ItemsImgEntity.class
+com\sleeve\swg\entity\CarouselEntity.class
+com\sleeve\swg\entity\OrderStatusEntity.class
+com\sleeve\swg\entity\UsersEntity.class
+com\sleeve\swg\entity\OrderItemsEntity.class
+com\sleeve\swg\entity\ItemsEntity.class
+com\sleeve\swg\entity\ItemsCommentsEntity.class

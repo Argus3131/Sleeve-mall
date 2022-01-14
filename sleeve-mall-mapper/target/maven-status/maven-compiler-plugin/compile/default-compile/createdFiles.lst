@@ -1,0 +1,12 @@
+com\sleeve\swg\mapper\ItemsCommentsMapper.class
+com\sleeve\swg\mapper\ItemsImgMapper.class
+com\sleeve\swg\mapper\CarouselMapper.class
+com\sleeve\swg\mapper\UserAddressMapper.class
+com\sleeve\swg\mapper\ItemsMapper.class
+com\sleeve\swg\mapper\UsersMapper.class
+com\sleeve\swg\mapper\OrdersMapper.class
+com\sleeve\swg\mapper\CategoryMapper.class
+com\sleeve\swg\mapper\ItemsSpecMapper.class
+com\sleeve\swg\mapper\OrderStatusMapper.class
+com\sleeve\swg\mapper\OrderItemsMapper.class
+com\sleeve\swg\mapper\ItemsParamMapper.class
